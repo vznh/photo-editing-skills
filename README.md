@@ -1,2 +1,1 @@
-# photo-editing-skills
-Photo editing skills I typically use to edit photos
+I typically use this through Ideogram, Reve, or Nano Banana 2.1 via Google AI Studio.
